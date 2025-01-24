@@ -3,8 +3,8 @@ package handlers
 import (
 	"database/sql"
 	"encoding/json"
-	"example/hello/internal/database"
-	"example/hello/internal/models"
+	"hello_crud_go/internal/database"
+	"hello_crud_go/internal/models"
 	"log"
 	"net/http"
 

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example/hello/internal/config"
-	"example/hello/internal/database"
-	"example/hello/internal/handlers"
+	"hello_crud_go/internal/config"
+	"hello_crud_go/internal/database"
+	"hello_crud_go/internal/handlers"
 	"log"
 	"net/http"
 
